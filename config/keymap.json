@@ -37,7 +37,7 @@
     ], [
         "&kp EQUAL",    "&kp N1", "&kp N2",   "&kp N3",    "&kp N4", "&kp N5",                  "&tog 3",                                                                                    "&trans", "&kp N6", "&kp N7",    "&kp N8",     "&kp N9",        "&kp N0",        "&kp MINUS",
           "&kp ESC",     "&kp Q",  "&kp W",    "&kp F",     "&kp P",  "&kp B",           "&macro_parens",                                                                            "&macro_dquotes",  "&kp J",  "&kp L",     "&kp U",      "&kp Y", "&kp SEMICOLON",         "&kp BSLH",
-          "&kp TAB",     "&kp Z",  "&kp R",    "&kp S",     "&kp T",  "&kp G",                  "&trans", "&kp LCTRL", "&kp LALT",                     "&kp RIGHT_WIN",    "&trans",         "&trans",  "&kp M",  "&kp N",     "&kp E",      "&kp I",         "&kp O", "&kp SINGLE_QUOTE",
+          "&kp TAB",     "&kp A",  "&kp R",    "&kp S",     "&kp T",  "&kp G",                  "&trans", "&kp LCTRL", "&kp LALT",                     "&kp RIGHT_WIN",    "&trans",         "&trans",  "&kp M",  "&kp N",     "&kp E",      "&kp I",         "&kp O", "&kp SINGLE_QUOTE",
        "&caps_word",     "&kp Z",  "&kp X",    "&kp C",     "&kp D",  "&kp V",                                         "&kp HOME",                       "&kp PAGE_UP",                                 "&kp K",  "&kp H", "&kp COMMA", "&kp PERIOD",     "&kp SLASH",        "&kp RSHFT",
             "&mo 2", "&kp GRAVE", "&kp AT", "&kp LEFT", "&kp RIGHT",                         "&kp SPACE",  "&kp BSPC",  "&kp END",                     "&kp PAGE_DOWN", "&kp ENTER",      "&sk RSHFT",           "&kp UP",  "&kp DOWN",   "&kp LBKT",      "&kp RBKT",            "&mo 2"
     ]
